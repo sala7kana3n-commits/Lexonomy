@@ -1,6 +1,0 @@
-{
-  "name": "Lexonomy",
-  "description": "Das öffentliche Web-Portal für Steuerwissen, nützliche Steuerrechner und ein SEO-optimiertes Glossar für Kanzleien und Steuerfachangestellte.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
